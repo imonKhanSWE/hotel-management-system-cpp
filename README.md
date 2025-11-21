@@ -3,7 +3,7 @@
 ## Console-based hotel management solution written in C++ for learning and practice.
 
 
-<p>
+<p align="justify">
     Explanation: 
 
     Step 1. We declear those variables that store the quantity of food items or rooms.
